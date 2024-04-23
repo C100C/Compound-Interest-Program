@@ -14,7 +14,7 @@ In this program, I abstracted much of the information from the user. Only allowi
 
 #Where could you enhance your code? How would these improvements make your code more efficient, secure, and so on? 
 
-I could make some improvements to the menu that the program outputs. It is quite simple and gets the job done. However, it could be improved to be better maintained, easier to read and more dynamic. I also would rewrite the getUserInput function to be more efficient. However, for the sake of this program, it does fine. 
+I could make some improvements to the menu that the program outputs. It is quite simple and gets the job done. However, it could be improved to be better maintained, easier to read, and more dynamic. I also would rewrite the getUserInput function to be more efficient. However, for the sake of this program, it does fine. 
 
  
 
@@ -30,10 +30,10 @@ The hardest part of this code was trying to figure out a way to compound monthly
 
 #What skills from this project will be particularly transferable to other projects or coursework? 
 
-In this project, I learned how to better use OOP. And I learned how to better debug a program. This project helped me visualize how math can be different from programming because of the way computers are being told to do it. In this project, I also used pass-by reference for the first time allowing me to use the get user input function and “return” or pass multiple numbers from user input with one function. 
+In this project, I learned how to better use OOP. And I learned how to better debug a program. This project helped me visualize how math can be different from programming because of the way computers are being told to do it. In this project, I also used pass-by-reference for the first time allowing me to use the get user input function and “return” or pass multiple numbers from user input with one function. 
 
  
 
 #How did you make this program maintainable, readable, and adaptable? 
 
-	I made this program maintainable by using OOP. If this program needs to be updated or added upon it could be done easily. Much of the information is abstracted and variables are used in most places. I made it as readable as I could by allowing for more whitespace than needed between lines. This helps me write the code and read it myself. I also added lots of comments for me and anyone else reading the code. The program is adaptable because even though the balance will only go so high because of integer overflow. It allows the user to enter any positive number for input and show them the balance. The underlying math in the functions also could be used in other programs or settings. 
+I made this program maintainable by using OOP. If this program needs to be updated or added upon it could be done easily. Much of the information is abstracted and variables are used in most places. I made it as readable as I could by allowing for more whitespace than needed between lines. This helps me write the code and read it myself. I also added lots of comments for me and anyone else reading the code. The program is adaptable because even though the balance will only go so high because of integer overflow. It allows the user to enter any positive number for input and show them the balance. The underlying math in the functions also could be used in other programs or settings. 
