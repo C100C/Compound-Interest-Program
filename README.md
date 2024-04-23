@@ -20,7 +20,7 @@ I could make some improvements to the menu that the program outputs. It is quite
 
 #Which pieces of the code did you find most challenging to write, and how did you overcome this? What tools or resources are you adding to your support network? 
 
-	The hardest part of this code was trying to figure out a way to compound monthly. I kept getting incorrect balances even though my “math” was correct. To solve this problem, I had to debug the program to see how the computer was handling the “math.” The problem was not my math but how I was telling the computer to do it. I saw that by not having another for loop and a way to reset the interest each year was causing the balances to be much higher than they should be. 
+The hardest part of this code was trying to figure out a way to compound monthly. I kept getting incorrect balances even though my “math” was correct. To solve this problem, I had to debug the program to see how the computer was handling the “math.” The problem was not my math but how I was telling the computer to do it. I saw that by not having another for loop and a way to reset the interest each year was causing the balances to be much higher than they should be. 
 
  
 
@@ -30,7 +30,7 @@ I could make some improvements to the menu that the program outputs. It is quite
 
 #What skills from this project will be particularly transferable to other projects or coursework? 
 
-	In this project, I learned how to better use OOP. And I learned how to better debug a program. This project helped me visualize how math can be different from programming because of the way computers are being told to do it. In this project, I also used pass-by reference for the first time allowing me to use the get user input function and “return” or pass multiple numbers from user input with one function. 
+In this project, I learned how to better use OOP. And I learned how to better debug a program. This project helped me visualize how math can be different from programming because of the way computers are being told to do it. In this project, I also used pass-by reference for the first time allowing me to use the get user input function and “return” or pass multiple numbers from user input with one function. 
 
  
 
