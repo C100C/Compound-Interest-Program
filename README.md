@@ -1,1 +1,1 @@
-# Cplusplus-Program
+# Compound-Interest-Program
